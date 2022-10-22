@@ -1,0 +1,87 @@
+body{
+   
+    background-color:#2A0944 ;
+}
+h1{
+    text-align: center;
+    font-size: 8rem;
+    color: #FF731D;
+ 
+    position: relative;
+    top: 0.5em;
+}
+.BUTTON{
+    
+color: black;
+background: transparent;
+background-size: cover;
+
+height: 150px;
+width: 150px;
+margin: 0.5em;
+position: relative;
+top: 1em;
+left:5.6%;
+border: 8px solid #1746A2;
+border-radius: 20px;
+
+}
+.pressed{
+    box-shadow: 0 10px 15px #1746A2 ;
+    height: 159px;
+    width: 159px;
+    
+}
+.w{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    color: #5F9DF7;
+    background-image: url(./drumkitimages/crash.png);
+   
+    
+}
+.a{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    background-image: url(./drumkitimages/kick.png);
+    color: #5F9DF7;
+}
+.s{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    background-image: url(./drumkitimages/snare.png);
+    color: #5F9DF7;
+}
+.d{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    background-image: url(./drumkitimages/tom1.png);
+    color: #5F9DF7;
+    background-color: white;
+}
+.j{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    background-image: url(./drumkitimages/tom2.png);
+    background-color: white;
+
+    color: #5F9DF7;
+}
+.k{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    background-image: url(./drumkitimages/tom3.png);
+    
+    
+    color: #5F9DF7;
+}
+.l{
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.5rem;
+    color: #5F9DF7;
+    background-image: url(./drumkitimages/tom4.png);
+
+}
+
+
+
